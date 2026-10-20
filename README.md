@@ -93,8 +93,14 @@
 
 ---
 
+---
+
 ### 📊 Mis Estadísticas de GitHub / GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariamonsalve1305&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamonsalve1305&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <a href="https://github.com/Mariamonsalve1305">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mariamonsalve1305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  </a>
+  <a href="https://github.com/Mariamonsalve1305">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamonsalve1305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="48%" />
+  </a>
 </p>
