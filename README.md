@@ -20,7 +20,9 @@
 - 🌱 Actualmente aprendiendo **Google Earth Engine | Machine Learning | Estadística**.
 - 💬 Pregúntame sobre:
   - Python, SQL, Análisis de Datos y Análisis Espacial.
-  - Modelación en ArcGIS Pro, calidad de datos y reportes.
+  - Modelado de datos entidad relación.
+  - Modelación en ArcGIS Pro, Modelación Model Builder, Model Experience ESRI, Análisis multicriterio, proyectos SIG
+  - calidad de datos y reportes.
   - Transformación de datos (*insights*) y exploración de KPIs financieros con SQL.
   - Análisis de *user journeys* con SQL.
   - Preparación y estructuración de datos con Python.
@@ -28,6 +30,10 @@
   - Validación de hipótesis de negocio con pruebas estadísticas.
   - Historias visuales claras con gráficas y dashboards interactivos para *stakeholders*.
   - Teledetección.
+  - Automatizacion de procesos.
+  - Bases de datos, y bases de datos espaciales.
+  - Imagenes satelitales (Landsat, Sentinel).
+  - Cartografía básica y tematica.
 - 📫 Puedes contactarme en: **betangeles.ing@gmail.com**
 
 <br>
