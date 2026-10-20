@@ -1,11 +1,14 @@
 <!-- ENCABEZADO Y CONTADOR DE VISITAS -->
-# ¡Hola! Soy María de los Ángeles Monsalve 👋
+<h1 align="center">¡Hola! Soy María de los Ángeles Monsalve 👋</h1>
+<h3 align="center">GIS Specialist & Data Analyst | Transformando datos espaciales en decisiones</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet&style=flat-square&label=Visitas+al+perfil+/+Profile+Views" alt="visitors" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mariamonsalve1305&color=blueviolet&style=flat-square&label=Visitas+al+perfil+/+Profile+Views" alt="visitors" />
 </p>
 
-🌐 **Languages / Idiomas:** [Español](#-versión-en-español) | [English](#-english-version)
+<p align="center">
+  🌐 <b>Languages / Idiomas:</b> <a href="#-versión-en-español">Español</a> | <a href="#-english-version">English</a>
+</p>
 
 ---
 
@@ -92,4 +95,6 @@
 
 ### 📊 Mis Estadísticas de GitHub / GitHub Stats
 <p align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariamonsalve1305&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamonsalve1305&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</p>
